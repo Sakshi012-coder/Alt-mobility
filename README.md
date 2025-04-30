@@ -8,7 +8,7 @@ This project analyzes order, customer, and payment data for Alt Mobility using S
 - GitHub
 
 ## Folder Structure
-altmobility-analysis/   ├── sql_queries/analysis_queries.sql # All SQL queries used 
+altmobility-analysis/   ├── analysis_queries.sql # All SQL queries used 
                         ├── visualizations/ # Power BI charts and graphs 
                         ├── summary/ # Summary of findings 
                         └── README.md # Project overview and instructions
